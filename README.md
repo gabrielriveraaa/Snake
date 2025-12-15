@@ -72,6 +72,8 @@ Toda la información se muestra solo al finalizar la partida.
 
 El tamaño del tablero se ajusta automáticamente al dispositivo.
 
+Puedes instalar el APK en tu dispositivo si solo quieres jugar :)
+
 📄 Licencia
 Proyecto de uso educativo y personal.
 Inspirado en el clásico Snake de Nokia.
