@@ -55,17 +55,6 @@ Copiar código
 flutter pub get
 Ejecuta en un dispositivo o emulador Android:
 
-bash
-Copiar código
-flutter run
-🖼️ Ícono de la app
-El proyecto usa un ícono personalizado inspirado en Snake Nokia.
-Para regenerarlo:
-
-bash
-Copiar código
-dart run flutter_launcher_icons
-🎯 Controles
 Desliza el dedo en la pantalla para cambiar la dirección.
 
 El juego termina al chocar con el borde o con el cuerpo.
